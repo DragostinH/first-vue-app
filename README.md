@@ -1,5 +1,5 @@
 # first-vue-app
-
+Learning Vue3 for the first time. This is a simple Vue3 app.
 ## Project setup
 ```
 npm install
